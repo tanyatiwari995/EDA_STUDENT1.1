@@ -102,5 +102,3 @@ The repository contains the following files:
 - `StudentsPerformance.csv`: Dataset file (ensure it is placed in the specified directory).
 - `README.md`: Project documentation file.
 
-
-
